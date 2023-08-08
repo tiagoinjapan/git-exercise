@@ -1,1 +1,1 @@
-# git-exercise
+Hello, world! I am a readme file. Have a great day!
